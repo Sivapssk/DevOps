@@ -1,5 +1,5 @@
-Grid07 AI Assignment
-Overview
+
+
 This project implements routing, content generation, and RAG-based reply system.
 
 Phase 1
